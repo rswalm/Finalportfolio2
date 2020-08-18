@@ -1,5 +1,7 @@
-body {background-image: url("./retro.jpg");
-      background-color:   rgb(4, 0, 10);
+body {
+  background: url("https://images.hdqwalls.com/download/3d-abstract-3840x2400.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 h1 { color:red;
